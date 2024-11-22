@@ -612,12 +612,13 @@ video {
   width: 1.75rem;
 }
 
-.w-89 {
-  width: 89%;
-}
-
 .w-90 {
   width: 365px;
+}
+
+.w-fit {
+  width: -moz-fit-content;
+  width: fit-content;
 }
 
 .w-full {
