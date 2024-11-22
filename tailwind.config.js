@@ -11,6 +11,7 @@ module.exports = {
       },
       width: {
         '89': '89%',
+        '90': '350px',
       },
       boxShadow: {
         'solid-shad':'8px 7px black',
