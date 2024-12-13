@@ -6,3 +6,7 @@
     font-family: 'Figtree';
     src: url('./fonts/Figtree-VariableFont_wght.ttf');
 }
+@font-face {
+    font-family: 'FigtreeExtraBold';
+    src: url('./fonts/Figtree-ExtraBold.ttf');
+}
