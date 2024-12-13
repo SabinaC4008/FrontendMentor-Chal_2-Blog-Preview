@@ -828,6 +828,16 @@ video {
   height: 200px;
 }
 
+.hover\:bg-custom-yellow:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(244 208 78 / var(--tw-bg-opacity, 1));
+}
+
+.hover\:text-custom-yellow:hover {
+  --tw-text-opacity: 1;
+  color: rgb(244 208 78 / var(--tw-text-opacity, 1));
+}
+
 @media (min-width: 768px) {
   .md\:h-522 {
     height: 522px;
